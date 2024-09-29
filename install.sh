@@ -22,7 +22,7 @@ mv ./vaults/ ~/Documents/
 mv ./books ~/Documents/
 mv ./ctf ~/ctf
 ## Configs
-
+mv ./configs/vim.con ~/.vimrc
 mv ./configs/tmux.conf ~/.tmux.conf
 mv ./configs/kitty/ ~/.config/kitty
 mv ./configs/alacritty/ ~/.config/alacritty/
