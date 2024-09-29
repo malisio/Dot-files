@@ -1,0 +1,36 @@
+## purpuse
+The purpuse of this project to be able to be able to communicate with others with a secured connection between you (Server) and the other person (Client).
+This simple code uses encryption methodes to secure the connection from any third parties.
+
+## Pseudo-code
+
+```c
+//Libs
+
+  make(Public_key);
+
+  
+
+main{
+  
+  create_socket;
+  bind_socket;
+  listen_socket;
+  connect_socket;
+  key_exchange;
+  // Not for now make(multi_thread);
+  while(connected==true){
+    get_data_from_user;
+    encrypt_data;
+    send_data;
+
+    receive_data;
+    dycrypt_data;
+    print_data_to_user;
+    
+}
+
+  close(socket);
+}
+
+```
