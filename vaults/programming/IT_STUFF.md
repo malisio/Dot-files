@@ -11,9 +11,7 @@
 - [x]  Learn c 
 - [ ] learn cpp
 - [ ] Assembly
-- [ ] Java
-- [ ] PHP
-- [ ] C#/python
+- [ ] Haskell
 ## IT skills 
 
 - [ ] Networking stuff
