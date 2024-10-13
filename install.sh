@@ -20,6 +20,7 @@ cd $path
 
 mv ./vaults/ ~/Documents/
 mv ./books ~/Documents/
+mv ./projects/ ~/Documents/projects/
 mv ./ctf ~/ctf
 ## Configs
 mv ./configs/vim.conf ~/.vimrc
@@ -27,6 +28,4 @@ mv ./configs/tmux.conf ~/.tmux.conf
 mv ./configs/kitty/ ~/.config/kitty
 mv ./configs/alacritty/ ~/.config/alacritty/
 
-yay -S obsidian flameshot spotify ani-cli
-
-
+yay -S obsidian flameshot 
