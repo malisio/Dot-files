@@ -1,8 +1,0 @@
-in this url :http://shop.trickster.htb/.git/config
-[user]
-	name = adam
-
-in this file http://shop.trickster.htb/.git/logs/refs/heads/admin_panel Email:
-0000000000000000000000000000000000000000 0cbc7831c1104f1fb0948ba46f75f1666e18e64c adam <adam@trickster.htb> 1716538399 -0400	commit (initial): update admin pannel
-Admin panel:
-http://shop.trickster.htb/admin634ewutrx1jgitlooaj/

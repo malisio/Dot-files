@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9e2fe5566758c609",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0efe8dd3eb2e328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4eba7d156c2718a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "math/practice/EXP_1_EX1.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3df9e8cd8f598b3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1fcb8280dde703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2055b4e2654fefcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b7877f429c24c44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9c9560e5eef1f09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00f080265f8e0591",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc8dad5ed4f4623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f20adbd8db347f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/practice/EXP_1_EX1.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b92840566e714bfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "math/practice/EXP_1_EX1.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e78f186b6533e2be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c4611a57574675d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/practice/EXP_1_EX1.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4eba7d156c2718a",
+  "lastOpenFiles": [
+    "math/practice/serielogique.pdf",
+    "math/practice/EXP_1_EX1.jpg",
+    "math/notes/math_notes.md",
+    "programming/low_lvl/Computer Architecture.md",
+    "programming/IT_STUFF.md",
+    "programming/MYSQL.md",
+    "programming/Tables-exmaple.png",
+    "markdown-cheat-sheet.md",
+    "programming/low_lvl/x86_assembly.md",
+    "math/bin",
+    "math/prime_num.cpp",
+    "math",
+    "Maths/Logic.md",
+    "Untitled.md",
+    "Maths",
+    "cryptography/alogs/Diffie-Hellman/README.md",
+    "cryptography/crypohack/Challenges.md",
+    "Htb-Academy/Learning_process/Learn_How_To_learn.md",
+    "Htb-Academy/Learning_Process/How To think.md",
+    "Htb-Academy/Learning_Process",
+    "cryptography/alogs/RSA/RSA.md",
+    "Untitled.canvas",
+    "programming/low_lvl",
+    "programming/Untitled",
+    "Htb-Academy/FFUF/FFUF.md",
+    "programming/Tables-exmaple.png.png",
+    "programming/Untitled.canvas",
+    "programming/password_is_123.txt",
+    "programming/C++ How to Program, 10th edition, Global Edition (2017) (Paul Deitel, Harvey Deitel) (Z-Library).pdf",
+    "programming/Intro to Python forComputer Science and Data Science Learning to Program with AI, Big Data and the Cloud (Paul Deitel) (Z-Library).pdf",
+    "cryptography/main-notes.md",
+    "cryptography/crypohack/20240902_14h01m11s_grim.png"
+  ]
+}

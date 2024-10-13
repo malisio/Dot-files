@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "190a93216e98d70c",
+    "type": "split",
+    "children": [
+      {
+        "id": "054a4d9379b4a110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ada8ee7c2377e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Instant/Instant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "015564dc7772c32b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9220766348f4b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4867fa65942776",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f62a4aaa08e76e6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c88510cb2ad48ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1149948fa299d2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0575985906f6399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760062feb93ef549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "htb/Instant/Instant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f573925f1f00deb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "htb/Instant/Instant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae6f8d8652bdd9f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "248ffafe9db432f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "htb/Instant/Instant.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9ada8ee7c2377e5",
+  "lastOpenFiles": [
+    "htb/Instant/backup.data",
+    "htb/Instant/solarputty-session-decryptor/decrypt.py",
+    "htb/Instant/solarputty-session-decryptor/README.md",
+    "htb/Instant/solarputty-session-decryptor/PoC.png",
+    "htb/Instant/solarputty-session-decryptor",
+    "Pentesting/snmp.md",
+    "htb/Instant/Instant.md",
+    "htb/Instant",
+    "htb/challenges/rev/rev_cyberpsychosis/README.md",
+    "Pentesting",
+    "Reverse,rootkit.md",
+    "htb/challenges/rev/rev_cyberpsychosis/flag.png",
+    "htb/challenges/rev/rev_cyberpsychosis/get_root.png",
+    "htb/challenges/rev/rev_cyberpsychosis/func_names.png",
+    "htb/challenges/rev/rev_cyberpsychosis/remove_lkm.png",
+    "htb/challenges/rev/rev_cyberpsychosis/hacked_kill.png",
+    "prev_esc/notes.md",
+    "htb/greenhorn/assets/admin.png",
+    "htb/greenhorn/assets/web-server.png",
+    "htb/greenhorn/assets/pdf_overview.png",
+    "htb/caption/README.md",
+    "htb/BoardLight/README.md",
+    "htb/greenhorn/Using OpenVAS.pdf",
+    "htb/trickster/README.md",
+    "htb/trickster/Vuln_change_detc.png",
+    "htb/greenhorn/README.md",
+    "htb/caption/exploit.java",
+    "htb/greenhorn/Depix/depixlib/__pycache__/Rectangle.cpython-312.pyc",
+    "htb/greenhorn/Depix/depixlib/__pycache__/LoadedImage.cpython-312.pyc",
+    "htb/greenhorn/Depix/depixlib/__pycache__/functions.cpython-312.pyc",
+    "htb/greenhorn/Depix/depixlib/__pycache__/helpers.cpython-312.pyc",
+    "htb/greenhorn/Depix/README.md",
+    "htb/greenhorn/assets/Depix/README.md",
+    "htb/greenhorn/exploit/README.md",
+    "htb/greenhorn/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC/README.md",
+    "htb/greenhorn/exploit/rrce/README.md",
+    "htb/greenhorn/exploit/CVE-2020-14144-GiTea-git-hooks-rce/README.md"
+  ]
+}
